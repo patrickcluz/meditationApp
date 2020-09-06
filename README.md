@@ -1,4 +1,4 @@
-# meditation-app
+# Meditation App
 
 <p align="center">
   <img src="https://ik.imagekit.io/patrickcluz/b_0eHC-MVj2zS.jpg" width="300" >
