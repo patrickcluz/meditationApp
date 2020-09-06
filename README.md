@@ -27,4 +27,4 @@ git clone https://github.com/patrickcluz/meditationApp
 # Open index.html with Live Server
 ```
 
-Or [click here](https://github.com/patrickcluz/meditationApp) to see it working.
+Or [click here](https://patrickcluz.github.io/meditationApp/) to see it working.
